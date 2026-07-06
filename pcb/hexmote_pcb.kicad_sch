@@ -2415,12 +2415,6 @@
 		(uuid "8d9aad84-0bdb-48eb-a06c-660a334c48f4")
 	)
 	(junction
-		(at 74.93 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "91519e36-4174-4ce4-be5e-a9be4d7fffd3")
-	)
-	(junction
 		(at 151.13 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2660,16 +2654,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 105.41) (xy 77.47 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ba83f36-b4e6-4a7b-aac2-0cee27496cd7")
-	)
-	(wire
-		(pts
 			(xy 162.56 139.7) (xy 168.91 139.7)
 		)
 		(stroke
@@ -2760,7 +2744,17 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 107.95) (xy 74.93 113.03)
+			(xy 71.12 105.41) (xy 77.47 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "824287c6-3b83-47b2-827c-b48121207582")
+	)
+	(wire
+		(pts
+			(xy 74.93 100.33) (xy 74.93 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2910,16 +2904,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 100.33) (xy 74.93 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b466fe0a-8fb7-4195-afd6-0868c49281ea")
-	)
-	(wire
-		(pts
 			(xy 154.94 121.92) (xy 154.94 129.54)
 		)
 		(stroke
@@ -2927,6 +2911,16 @@
 			(type default)
 		)
 		(uuid "b69b916f-4487-4777-b262-dbe3bccd1258")
+	)
+	(wire
+		(pts
+			(xy 71.12 107.95) (xy 77.47 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6ec93ac-fd59-467b-9616-048b120c8bfa")
 	)
 	(wire
 		(pts
@@ -3017,16 +3011,6 @@
 			(type default)
 		)
 		(uuid "d9589805-08ff-47de-8306-3be20b8cb5cc")
-	)
-	(wire
-		(pts
-			(xy 71.12 107.95) (xy 74.93 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e10df225-3657-480a-bf17-b1450d0a48f3")
 	)
 	(wire
 		(pts
@@ -3137,28 +3121,6 @@
 			(type default)
 		)
 		(uuid "fee3dbe2-5639-4613-a30b-7a77992445a3")
-	)
-	(global_label "SEL"
-		(shape input)
-		(at 77.47 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "009d500c-5a7d-4cba-8d8a-e012eb569fc1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.8418 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "VRx"
 		(shape input)
@@ -3292,6 +3254,28 @@
 			)
 		)
 	)
+	(global_label "SEL+"
+		(shape input)
+		(at 77.47 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "205a8126-8d14-409c-b3f1-35131dcacc80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.4142 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ROW3"
 		(shape input)
 		(at 161.29 97.79 0)
@@ -3327,6 +3311,28 @@
 		(uuid "2b15c5b1-1b3d-481f-aa3c-ac775656d211")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 128.27 26.4667 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SEL-"
+		(shape input)
+		(at 151.13 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3be0343b-ade9-48c7-bc92-c956b09fe030")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.0742 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3534,28 +3540,6 @@
 			)
 		)
 	)
-	(global_label "SEL"
-		(shape input)
-		(at 154.94 142.24 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c10fc292-2df5-4ea5-92ef-6887e01c7ad3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.3118 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VRy"
 		(shape input)
 		(at 77.47 85.09 0)
@@ -3591,6 +3575,50 @@
 		(uuid "d1e11683-2c61-4c19-ae70-91ebac2d8ed0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.5366 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SEL+"
+		(shape input)
+		(at 146.05 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2c3eaaf-715d-47a8-9e64-5dc2f1962e2a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.9942 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SEL-"
+		(shape input)
+		(at 77.47 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e593941b-f071-45f8-9079-059aee46c88a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.4142 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4052,74 +4080,6 @@
 			(project "hexmote_pcb"
 				(path "/cd907341-f341-412c-9f24-14ef05b21a1f"
 					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 148.59 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "352b7ecf-fc2e-4525-8b87-14ee0472b73e")
-		(property "Reference" "SW9"
-			(at 148.59 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 148.59 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 148.59 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 148.59 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 148.59 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ba4bfb97-26c3-40bb-998f-8ea54be8fead")
-		)
-		(pin "1"
-			(uuid "118edae3-1fbf-4467-8b7d-41f20e1edafa")
-		)
-		(instances
-			(project "hexmote_pcb"
-				(path "/cd907341-f341-412c-9f24-14ef05b21a1f"
-					(reference "SW9")
 					(unit 1)
 				)
 			)
