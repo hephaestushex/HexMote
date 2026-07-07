@@ -2292,12 +2292,20 @@
 		(uuid "1bbf2a32-5bb0-4cf2-adbd-a4488fe0f021")
 	)
 	(no_connect
+		(at 116.84 147.32)
+		(uuid "1cecc588-b220-44cd-831d-1dc6071cc03f")
+	)
+	(no_connect
 		(at 130.81 165.1)
 		(uuid "414f83f6-df40-4d0d-9c88-9b939af555a9")
 	)
 	(no_connect
 		(at 133.35 165.1)
 		(uuid "5818fc80-4bfc-4936-a47c-b68565fcd941")
+	)
+	(no_connect
+		(at 154.94 157.48)
+		(uuid "956673da-38c7-4050-a1a0-937ac955a572")
 	)
 	(no_connect
 		(at 196.85 149.86)
