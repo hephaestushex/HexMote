@@ -1,3 +1,7 @@
+# JOURNAL
+
+# Total time: 14h
+
 # July 6th
 
 *Note: I was too locked in to take screenshots, but I did record through lapse*
@@ -166,6 +170,18 @@ I wanted to render it, but apparently, being linked forces all of the objects to
 It is now 5 AM, and I have been up for nearly 23 hours. I doubt I can work on firmware now, so I'll come back to it tomorrow. No actually today.
 
 Overall a pretty productive day(s) I would say.
+
+# July 8th (for real this time)
+
+## 1h
+
+[Lapse](https://lapse.hackclub.com/timelapse/Px4isJaHPv2T)
+
+So in my sleep deprivedness, I forgot to make a hole for the switch, which I promptly did, followed by the restructuring of every CAD file + render. I also made a nice gif for rotating the HexMote around.
+
+As for the firmware, it turns out I should have done more research, as BLE doesn't natively send gyro data, so the nRF52840 doesn't really work for this. However, there is a fix, by sending raw gyro data over and using a DSU server for gyro data, which works for the emulators I need anyway (raw ble doesn't really work). Claude was surprisingly helpful, and made the code that works (with no hardware errors at least) on the second try.
+
+From there, all I'm doing is cleaning this project up and submitting it, which shouldn't take too long as I have been doing it along the way
 
 
 
