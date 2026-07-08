@@ -3,13 +3,13 @@ A wireless game controller with a built in IMU, allowing for motion controlled g
 
 ![Animated Gif of HexMote, red](https://github.com/hephaestushex/HexMote/blob/cfdedfd1c7839106c10d388ec9ba267a18893311/assets/Case%20Render.gif)
 
-![Render of HexMote, Front, blue](https://github.com/hephaestushex/HexMote/blob/af47827ae360967722cf17a6e79911b3e41a6037/assets/Blue%20Front%20View.png)
+![Render of HexMote, Front, blue](https://github.com/hephaestushex/HexMote/blob/4f98e4f4513170ecc8293901d8bb9ca9048cdd7b/assets/Blue%20Front%20View.png)
 
-![Render of HexMote, Front, red](https://github.com/hephaestushex/HexMote/blob/af47827ae360967722cf17a6e79911b3e41a6037/assets/Red%20Front%20View.png)
+![Render of HexMote, Front, red](https://github.com/hephaestushex/HexMote/blob/4f98e4f4513170ecc8293901d8bb9ca9048cdd7b/assets/Red%20Front%20View.png)
 
-![Render of HexMote, Top Down, red](https://github.com/hephaestushex/HexMote/blob/af47827ae360967722cf17a6e79911b3e41a6037/assets/Red%20Top%20Down.png)
+![Render of HexMote, Top Down, red](https://github.com/hephaestushex/HexMote/blob/4f98e4f4513170ecc8293901d8bb9ca9048cdd7b/assets/Red%20Top%20Down.png)
 
-![Render of HexMote, Side, blue](https://github.com/hephaestushex/HexMote/blob/af47827ae360967722cf17a6e79911b3e41a6037/assets/Blue%20Side%20View.png)
+![Render of HexMote, Side, blue](https://github.com/hephaestushex/HexMote/blob/4f98e4f4513170ecc8293901d8bb9ca9048cdd7b/assets/Blue%20Side%20View.png)
 
 # Inspiration
 Recently, I started playing Mario Kart with my sister, but unfortunately for her, she's not too good at video games. The controllers I got, while having hall effect joysticks, lacked motion controls, so my poor sister struggled to steer with the tiny joystick, while turning the controller to no avail. So, I decided to make a Wii-mote-esque controller that would improve the usage while playing motion controlled games. That led birth to the HexMote, a wireless game controller built solely to improve less video-game inclined people.
