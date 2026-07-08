@@ -40,6 +40,12 @@ The PCB mounts on printed standoffs with heatset inserts placed within them, and
 
 # Firmware
 
+The firmware for the hexmote is coded with Arduino, and uses several libraries to allow for BLE communication.
+
+Unfortunately, there are no ways of directly parsing the gyro data within a game, so this requires a Cemuhook DSU script, which is included in the repo. Joystick and buttons work as normal however.
+
+DISCLAIMER: As of right now, the code is AI generated and has not been tested on a physical product. Firmware will be updated and fixed once the HexMote has been built.
+
 # BOM
 
 | Item Name | Qty | Price (total) (USD) | Item link | Notes |
