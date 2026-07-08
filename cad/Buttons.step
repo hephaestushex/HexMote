@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Buttons.step',
-/* time_stamp */ '2026-07-08T03:40:47-06:00',
+/* time_stamp */ '2026-07-08T12:07:43-06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -8357,15 +8357,15 @@ SOLID_ANGLE_UNIT()
 #7754=PRODUCT_DEFINITION_SHAPE('',$,#7757);
 #7755=SHAPE_REPRESENTATION('',(#3673),#7747);
 #7756=PRODUCT_DEFINITION_CONTEXT('part definition',#7761,'design');
-#7757=PRODUCT_DEFINITION('Case','Case v33',#7758,#7756);
+#7757=PRODUCT_DEFINITION('Case','Case v36',#7758,#7756);
 #7758=PRODUCT_DEFINITION_FORMATION('',$,#7763);
-#7759=PRODUCT_RELATED_PRODUCT_CATEGORY('Case v33','Case v33',(#7763));
+#7759=PRODUCT_RELATED_PRODUCT_CATEGORY('Case v36','Case v36',(#7763));
 #7760=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#7761);
 #7761=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #7762=PRODUCT_CONTEXT('part definition',#7761,'mechanical');
-#7763=PRODUCT('Case','Case v33',$,(#7762));
+#7763=PRODUCT('Case','Case v36',$,(#7762));
 #7764=PRESENTATION_STYLE_ASSIGNMENT((#7765));
 #7765=SURFACE_STYLE_USAGE(.BOTH.,#7766);
 #7766=SURFACE_SIDE_STYLE('',(#7767));

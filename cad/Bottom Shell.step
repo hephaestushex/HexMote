@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Bottom Shell.step',
-/* time_stamp */ '2026-07-08T03:39:39-06:00',
+/* time_stamp */ '2026-07-08T12:03:33-06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -16468,15 +16468,15 @@ SOLID_ANGLE_UNIT()
 #15097=PRODUCT_DEFINITION_SHAPE('',$,#15100);
 #15098=SHAPE_REPRESENTATION('',(#7962),#15090);
 #15099=PRODUCT_DEFINITION_CONTEXT('part definition',#15104,'design');
-#15100=PRODUCT_DEFINITION('Case','Case v33',#15101,#15099);
+#15100=PRODUCT_DEFINITION('Case','Case v36',#15101,#15099);
 #15101=PRODUCT_DEFINITION_FORMATION('',$,#15106);
-#15102=PRODUCT_RELATED_PRODUCT_CATEGORY('Case v33','Case v33',(#15106));
+#15102=PRODUCT_RELATED_PRODUCT_CATEGORY('Case v36','Case v36',(#15106));
 #15103=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#15104);
 #15104=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #15105=PRODUCT_CONTEXT('part definition',#15104,'mechanical');
-#15106=PRODUCT('Case','Case v33',$,(#15105));
+#15106=PRODUCT('Case','Case v36',$,(#15105));
 #15107=PRESENTATION_STYLE_ASSIGNMENT((#15108));
 #15108=SURFACE_STYLE_USAGE(.BOTH.,#15109);
 #15109=SURFACE_SIDE_STYLE('',(#15110));
