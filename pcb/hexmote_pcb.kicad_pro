@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../cad/hexmote_pcb.step",
       "svg": "",
       "vrml": ""
     },
