@@ -16,6 +16,10 @@ Recently, I started playing Mario Kart with my sister, but unfortunately for her
 
 # Schematic + PCB
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/hephaestushex/HexMote/tree/main/pcb)
+
+Gerbers can be found in pcb/production
+
 <img width="864" height="611" alt="image" src="https://github.com/user-attachments/assets/b2598ec7-edc5-4fe6-b978-813494b180e8" />
 
 The schematic initially used a switch matrix, but falling back to direct pins proved better for pcb traces.
