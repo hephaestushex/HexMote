@@ -1,7 +1,7 @@
 # HexMote
 A wireless game controller with a built in IMU, allowing for motion controlled games. Uses the nRF52840 SuperMini and the ICM-20948 for motion controls.
 
-![Animated Gif of HexMote, red](https://github.com/hephaestushex/HexMote/blob/9f72bba0a47e481c975107375c571929fd8fa8e4/assets/Case%20Render.gif)
+![Animated Gif of HexMote, red](https://github.com/hephaestushex/HexMote/blob/cfdedfd1c7839106c10d388ec9ba267a18893311/assets/Case%20Render.gif)
 
 ![Render of HexMote, Front, blue](https://github.com/hephaestushex/HexMote/blob/af47827ae360967722cf17a6e79911b3e41a6037/assets/Blue%20Front%20View.png)
 
