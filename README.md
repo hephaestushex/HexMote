@@ -48,8 +48,8 @@ The PCB mounts on printed standoffs with heatset inserts placed within them, and
 | JST-PH Connector | 1 | $0.99 | [Link](https://www.aliexpress.com/item/1005008970428474.html) | Make sure you get the right connector (right angle) |
 | ALPS RKJXV Joystick | 1 | $0.99 | [Link](https://www.aliexpress.com/item/1005009112250803.html) | Make sure you get the PS4 style joystick |
 | Soft Tactile Pushbutton | 8 | $0.99 | [Link](https://www.aliexpress.com/item/1005004588874318.html) | Do not substitute for regular clicky buttons, they are not the same footprint |
-| M3x5x4 Inserts | 8 | $0.99 | [Link](https://www.aliexpress.com/item/1005011959188413.html) | Ships as 100 |
-| M3x6 screws | 8 | $0.99 | [Link](https://www.aliexpress.com/item/32794842281.html) | Ships as 100 |
+| M3x5x4 Inserts | 4 | $0.99 | [Link](https://www.aliexpress.com/item/1005011959188413.html) | Ships as 100 |
+| M3x6 screws | 4 | $0.99 | [Link](https://www.aliexpress.com/item/32794842281.html) | Ships as 100 |
 | 3.7v 500 mah lipo | 1 | $0.99 | [Link](https://www.aliexpress.com/item/1005001485127987) | Really anything works here so long as it meets the 5mm thick, up to 35mm by 80mm dimension requirement and has a jst ph 2.0 connector |
 | PCB | 1 | $3.50 | [Link](https://github.com/hephaestushex/HexMote/blob/2a16dff57269423145945d0d09d0ee5307a6468b/pcb/production/hexmote_pcb.zip) | Link is to gerber files, JLC ships the total for 3.50 to Canada |
 | Case | 1 | $1.00 | [Link](https://github.com/hephaestushex/HexMote/blob/d6d5b4342bca9d7315f2470e53cb6bb6a80dd431/cad/3d%20print.3mf) | Price differs based on filament. Bambu Lab PLA Matte is used here |
